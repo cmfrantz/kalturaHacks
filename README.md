@@ -1,5 +1,5 @@
 # kalturaHacks
-Scripts to make using Kaltura easier
+Scripts to make using Kaltura less mind-bogglingly painful
 # GSL
 Great Salt Lake data analysis scripts
 by Carie Frantz cariefrantz@weber.edu
