@@ -6,8 +6,8 @@ by Carie Frantz cariefrantz@weber.edu
 
 ## List of scripts
 <table>
-<tr><th>Script</th><th>Description</th><th>Data files used</th><th>Other requirements</th></tr>
-<tr><td>kalturaCaptionStripper.py</td><td>Formats downloaded Kaltura caption files for creating lecture transcripts</td><td>One or more *.srt files downloaded from Kaltura</td><td></td></tr>
+<tr><th>Script</th><th>Description</th><th>Data files used</th><th>Other requirements</th><th>Notes</th></tr>
+<tr><td>kalturaCaptionStripper.py</td><td>Formats downloaded Kaltura caption files for creating lecture transcripts</td><td>One or more *.srt files downloaded from Kaltura</td><td></td><td>Future iterations should be able to re-upload the edited transcripts</td></tr>
 </table>
 
 ## Setting up
