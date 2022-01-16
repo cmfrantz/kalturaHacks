@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 __author__ = 'Carie Frantz'
 __email__ = 'cariefrantz@weber.edu'
-"""DataProcessing
+"""kalturaCaptionStripper
 Created on Sun Jan 9 14:48:09 2022
 @author: cariefrantz
 @project: Teaching
